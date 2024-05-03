@@ -3,5 +3,5 @@
 - crear repositorio en github
 - modificar archivo .d
 - clonar el repositorio
-- hacer cambios en
+- hacer cambios en el repositorio locad (add, commit)
 - pull y push al repositoria remoto
